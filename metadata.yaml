@@ -1,0 +1,41 @@
+_repo: Mirth-and-metre_69177
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: M'Connell
+    gutenberg_agent_id: '55150'
+    url: http://www.gutenberg.org/2009/agents/55150
+creator:
+  authors:
+  - agent_name: Smedley, Frank E. (Frank Edward)
+    aliases:
+    - Smedley, F. E. (Frank Edward)
+    - Smedley, Francis Edward
+    - Fairlegh, Frank
+    birthdate: 1818
+    deathdate: 1864
+    gutenberg_agent_id: '9067'
+    url: http://www.gutenberg.org/2009/agents/9067
+    wikipedia: https://en.wikipedia.org/wiki/Francis_Edward_Smedley
+  - agent_name: Yates, Edmund H.
+    gutenberg_agent_id: '55149'
+    url: http://www.gutenberg.org/2009/agents/55149
+description: ''
+gutenberg_issued: '2022-10-18'
+identifiers:
+  gutenberg: '69177'
+language: en
+pgterms:marc904: https://archive.org/details/mirthmetre00smed
+pgterms:marc905: 20210419175520smedley
+pgterms:marc906: '1855'
+pgterms:marc907: gb
+production_note: Mark C. Orton and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United Kingdom: George Routledge & Co.,1855.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Mirth and metre
+url: http://www.gutenberg.org/ebooks/69177
