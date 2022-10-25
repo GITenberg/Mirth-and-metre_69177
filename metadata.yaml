@@ -5,6 +5,9 @@ contributor:
     agent_name: M'Connell
     gutenberg_agent_id: '55150'
     url: http://www.gutenberg.org/2009/agents/55150
+covers:
+- cover_type: archival
+  image_path: 69177-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Smedley, Frank E. (Frank Edward)
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '55149'
     url: http://www.gutenberg.org/2009/agents/55149
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69177#Mirth-and-metre
 gutenberg_issued: '2022-10-18'
 identifiers:
   gutenberg: '69177'
